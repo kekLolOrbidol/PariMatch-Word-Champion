@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:fontFamily="sans-serif-black"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:gravity="center"
+    android:textSize="36dp"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    android:textColor="#000000">
+
+</TextView>

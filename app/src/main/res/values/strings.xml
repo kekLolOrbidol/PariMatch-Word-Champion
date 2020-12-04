@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pari Mяч</string>
+    <string name="hint">Guide</string>
+    <string name="score">score</string>
+    <string name="word">word</string>
+    <string name="new_game">New Game</string>
+    <string name="time_trial">time trial</string>
+    <string name="scoreboard">scoreboard </string>
+    <string name="settings">settings</string>
+    <string name="about">about</string>
+    <string name="available_words">available word</string>
+    <string name="duplicate_word">duplicate word</string>
+    <string name="invalid_word">invalid word</string>
+    <string name="close">close</string>
+    <string name="hints">hint</string>
+    <string name="facebook_app_id">405607210564129</string> <string name="fb_login_protocol_scheme">fb405607210564129</string>
+
+    <string name="coming_soon">coming soon</string>
+</resources>
